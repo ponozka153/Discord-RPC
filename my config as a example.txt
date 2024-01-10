@@ -1,0 +1,69 @@
+MÍSTO .txt >> .json A V large_image a small_image MŮŽETE POUŽÍT URL ODKAZ NA OBRÁZEK
+
+{
+    "Shower": {
+        "activity": {
+            "details": "Myju se :3",
+            "assets": {
+                "large_image": "shower",
+                "large_text": "Ty mede myju se :D",
+                "small_image": "brb",
+                "small_text": "I'll be right back"
+            },
+            "timestamps": true,
+            "instance": true
+        }
+    },
+    "Arbeiten": {
+        "activity": {
+            "details": "Pracuju někde venku ig",
+            "assets": {
+                "large_image": "arbeiten",
+                "large_text": "Ty mede jaký arbeiten :flushed:",
+                "small_image": "brb",
+                "small_text": "Nvm kdy se vrátim dpč xd"
+            },
+            "timestamps": true,
+            "instance": true
+        }
+    },
+    "For Honor": {
+        "activity": {
+            "details": "Čekám až mi GeForce dovolí hrát For Horor",
+            "assets": {
+                "large_image": "forhonor",
+                "large_text": "Hejtim tu hru",
+                "small_image": "coolwarden",
+                "small_text": "Warden je most superior uwu"
+            },
+            "timestamps": true,
+            "instance": true
+        }
+    },
+    "I'm a goner": {
+        "activity": {
+            "details": "Jsem někde pryč idk",
+            "assets": {
+                "large_image": "brb",
+                "large_text": "Man I'm gone",
+                "small_image": "test",
+                "small_text": "To jsem já :D"
+            },
+            "timestamps": true,
+            "instance": true
+        }
+    },
+    "Homework": {
+        "activity": {
+            "details": "Dělám foking úkoly :((",
+            "assets": {
+                "large_image": "woman",
+                "large_text": "Úkolky :3",
+                "small_image": "angy",
+                "small_text": "Hejtim DÚ"
+            },
+            "timestamps": false,
+            "instance": true
+        }
+    }
+}
